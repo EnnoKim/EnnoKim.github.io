@@ -22,8 +22,8 @@ title: 诺诺的博客
 favicon: "_img/icon.jpg"
 email: jinyingnuoivit@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: ""
+baseurl: "ivit.site" # the subpath of your site, e.g. /blog
+url: "ivit.site"
 
 # Build settings
 theme: minima
